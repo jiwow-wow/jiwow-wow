@@ -1,7 +1,5 @@
 ## C:\JiwonJung
 
-### 깃허브 계정 변경 후 재건설 중
-
 ## 🛠 Tech Stack
 
 #### 💻 Languages
